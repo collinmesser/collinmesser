@@ -3,7 +3,7 @@ template: page
 title: projects
 slug: projects
 socialImage: /media/fiad-logo.png
-draft: true
+draft: false
 ---
 [FI Adventures](https://www.fiadventures.com/)
 
