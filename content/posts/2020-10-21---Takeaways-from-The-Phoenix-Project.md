@@ -5,7 +5,7 @@ slug: 3-takeaways-from-the-phoenix-project
 socialImage: /media/phoenix-project-cover.jpg
 draft: false
 date: 2020-10-22T11:10:37.121Z
-description: A few of my takeaways from reading The Phoenix Project.
+description: a few of my key takeaways from reading The Phoenix Project.
 category: book review
 tags:
   - devops
