@@ -14,6 +14,8 @@ tags:
 ---
 
 ![digital garden](/media/digital-garden.jpg)
+*Image from [Unsplash](https://unsplash.com/photos/sFydXGrt5OA/info) by [@markusspiske](https://unsplash.com/@markusspiske)*
+
 
 There are two concepts that I've been aware of for a while and I've really wanted to devote myself to them. I've hesitated for so long though because they involve putting yourself out there for the world to see, and that is often difficult for me. However, there are aspects of these two concepts that are very freeing and allow me to put myself out there without fear of failure or rejection. These two concepts are:
 
