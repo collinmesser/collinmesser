@@ -10,4 +10,5 @@
 ## read my blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Takeaways from "The Phoenix Project"](https://dev.to/collinmesser/3-takeaways-from-the-phoenix-project-59ln)
 <!-- BLOG-POST-LIST:END -->
