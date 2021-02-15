@@ -5,7 +5,7 @@
 - lines of code deleted at work: ~379,701
 - side projects started: ~15
 - side projects finished: ~8
-- plants on my desk: 3
+- plants on my desk: 1
 
 ## read my blog posts
 
