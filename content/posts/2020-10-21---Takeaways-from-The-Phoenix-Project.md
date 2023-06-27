@@ -1,11 +1,11 @@
 ---
 template: post
-title: 3 takeaways from "The Phoenix Project"
+title: 3 Takeaways from "The Phoenix Project"
 slug: 3-takeaways-from-the-phoenix-project
 socialImage: /media/phoenix-project-cover.jpg
 draft: false
 date: 2020-10-22T11:10:37.121Z
-description: a few of my key takeaways from reading The Phoenix Project.
+description: A few of my key takeaways from reading The Phoenix Project.
 category: book review
 tags:
   - devops
@@ -17,7 +17,7 @@ tags:
 
 [~ view this post on dev.to ~](https://dev.to/collinmesser/3-takeaways-from-the-phoenix-project-59ln)
 
-A few months ago at work one of my coworkers had a great idea to create an engineering book club. I'll be honest and admit that at the time, I had never read a single book about engineering or programming. Granted, I _had read a lot_ about the subject, but not really in book form. I wrongly assumed that the more permanent nature of books made the information inside quickly outdated in the ever-changing landscape of software development.
+A few months ago at work one of my coworkers had a great idea to create an engineering book club. I'll be honest and admit that at the time, I haven't really read many books about engineering or programming. Granted, I _had read a lot_ about the subject, but not really in book form. I mostly assumed that the more permanent nature of books made the information inside quickly outdated in the ever-changing landscape of software development.
 
 While both of these things are true, books are permanent and software development changes quickly, the kind of knowledge that gets written into books isn't the kind of knowledge that goes out of style fast. The longer format of books makes them great for disseminating theories, principles, and ideas. Ideas about human nature, how people work together, decision making, communication, leadership… these are all just as relevant to software development as they are to any other field.
 

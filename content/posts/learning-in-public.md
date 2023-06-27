@@ -1,11 +1,11 @@
 ---
 template: post
-title: learning in public and curating a digital garden
+title: Learning in Public and Curating a Digital Garden
 slug: learning-in-public-and-curating-a-digital-garden
 socialImage: /media/digital-garden.jpg
 draft: false
 date: 2020-10-28T7:39:37.121Z
-description: i am taking a new path of learning in public and turning my site into a curated, digital garden.
+description: I am taking a new path of learning in public and turning my site into a curated, digital garden.
 category: digital garden
 tags:
   - digital-garden
