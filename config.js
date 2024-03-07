@@ -10,7 +10,12 @@ module.exports = {
   postsPerPage: 4,
   googleAnalyticsId: 'UA-52702669-1',
   useKatex: false,
-  menu: [],
+  menu: [
+    {
+      label: 'articles',
+      path: '/'
+    },
+  ],
   author: {
     name: 'Collin Messer',
     photo: '/photo.jpg',
