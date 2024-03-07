@@ -13,7 +13,7 @@ module.exports = {
   menu: [],
   author: {
     name: 'Collin Messer',
-    photo: '/photo.png',
+    photo: '/photo.jpg',
     bio: "I'm a senior software engineer currently looking for my next role. Previously at Your Money Line, Castiron, Zipari. My current interests are gardening, wood working, and land restoration.",
     copyright: '© 2024 Collin Messer. All rights reserved.',
     contacts: {
