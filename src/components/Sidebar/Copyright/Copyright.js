@@ -9,7 +9,6 @@ type Props = {
 const Copyright = ({ copyright }: Props) => (
   <div className={styles['copyright']}>
     {copyright} <br />
-    <a href="https://github.com/alxshelepenok/gatsby-starter-lumen">gatsby-starter-lumen <br />template @alxshelepenok</a>
   </div>
 );
 
