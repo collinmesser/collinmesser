@@ -24,7 +24,7 @@ const Menu = ({ menu }: Props) => (
           </Link>
         </li>
       ))}
-      {/* <li className={styles['menu__list-item']}>
+      <li className={styles['menu__list-item']}>
         <Link
           to='https://www.notion.so/collinmesser/work-journal-a6af7459c51f4aa4b6d33748a7bcf2c4'
           className={styles['menu__list-item-link']}
@@ -32,7 +32,7 @@ const Menu = ({ menu }: Props) => (
         >
           work journal
         </Link>
-      </li> */}
+      </li>
     </ul>
   </nav>
 );
